@@ -7,4 +7,4 @@ I would like to add links of my blogs which written on Deep learning over here f
 -------------------------- HAPPY LEARNING -------------------------------------------------------
 
 # Thanks
-Latha K H
+# Latha K H
